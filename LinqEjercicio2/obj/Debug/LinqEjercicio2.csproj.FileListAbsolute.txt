@@ -1,0 +1,8 @@
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\bin\Debug\LinqEjercicio2.exe.config
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\bin\Debug\LinqEjercicio2.exe
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\bin\Debug\LinqEjercicio2.pdb
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.exe
+C:\Users\matia\OneDrive\Escritorio\C#\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.pdb
